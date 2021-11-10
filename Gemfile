@@ -6,4 +6,4 @@ git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
 
-gem "rails", "= 6.0.0"
+gem "rails", "= 6.1.4.1"
