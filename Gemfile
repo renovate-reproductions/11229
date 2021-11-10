@@ -17,7 +17,7 @@ gem 'pg'
 gem 'pghero'
 gem 'dotenv-rails'
 gem 'font-awesome-rails'
-gem 'best_in_place', '~> 3.0.1'
+gem 'best_in_place', '~> 3.1.0'
 
 gem 'paperclip', '~> 5.1'
 gem 'paperclip-av-transcoder'
